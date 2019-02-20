@@ -28,4 +28,23 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
+  - name: MySQL
+    web_url: https://github.com/topics/mysql
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mysql/mysql.png 
+
+  - name: Git
+    web_url: https://github.com/topics/git
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png 
+
+  - name: PWA
+    web_url: https://github.com/topics/pwa
+    image_url: https://raw.githubusercontent.com/github/explore/698c66928eddcc6ad969b94912d7727c10229593/topics/pwa/pwa.png
+
+  - name: Web Components
+    web_url: https://github.com/topics/web-components
+    image_url: https://raw.githubusercontent.com/github/explore/5bb759def17a30d912fb058728b2a5af1cbe8b1a/topics/web-components/web-components.png
+
