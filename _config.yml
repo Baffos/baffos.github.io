@@ -34,11 +34,11 @@ topics:
 
   - name: MySQL
     web_url: https://github.com/topics/mysql
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mysql/mysql.png 
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mysql/mysql.png
 
   - name: Git
     web_url: https://github.com/topics/git
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png 
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
 
   - name: PWA
     web_url: https://github.com/topics/pwa
@@ -47,4 +47,3 @@ topics:
   - name: Web Components
     web_url: https://github.com/topics/web-components
     image_url: https://raw.githubusercontent.com/github/explore/5bb759def17a30d912fb058728b2a5af1cbe8b1a/topics/web-components/web-components.png
-
